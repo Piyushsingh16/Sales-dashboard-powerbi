@@ -134,13 +134,13 @@ Sales-Analytics-Dashboard/
 Add your dashboard screenshot here:
 
 ```markdown
-![Sales Dashboard](Screenshot 2026-05-07 221524.png)
+![Sales Dashboard](Dashboard.png)
 ```
 
 ## Forecast Dashboard
 
 ```markdown
-![Forecast Dashboard](Screenshot 2026-05-07 221556d.png)
+![Forecast Dashboard](Sales Forecast Dashboard.png)
 ```
 
 ---
