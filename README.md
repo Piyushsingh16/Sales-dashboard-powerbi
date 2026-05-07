@@ -131,7 +131,6 @@ Sales-Analytics-Dashboard/
 
 ## Main Dashboard
 
-Add your dashboard screenshot here:
 
 ```markdown
 ![Sales Dashboard](Dashboard.png)
